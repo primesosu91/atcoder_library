@@ -2,6 +2,14 @@
 //
 // example codes:
 //
+// ABC 372 E - K-th Largest Connected Components (1Q)
+// https://atcoder.jp/contests/abc372/submissions/77773558
+// 連結成分の頂点番号が大きい方からk番目の頂点を求める
+//
+// ABC 120 D - Decayed Bridges (1Q)
+// https://atcoder.jp/contests/abc120/submissions/77773679
+// 辺削除 -> 辺追加への言い換え
+//
 
 #include <bits/stdc++.h>
 using namespace std;
