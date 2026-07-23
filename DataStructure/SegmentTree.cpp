@@ -2,6 +2,18 @@
 //
 // example codes:
 //
+// ABC 343 F - Second Largest Query (1D)
+// https://atcoder.jp/contests/abc343/submissions/77771841
+// 区間内の2番目に大きい数の要素数を求める
+//
+// ARC 033 C - データ構造 (1D)
+// https://atcoder.jp/contests/arc033/submissions/77772133
+// x番目に小さい値を求める
+//
+// ABC 452 F - Interval Inversion Count (2D)
+// https://atcoder.jp/contests/abc452/submissions/77773379
+// 転倒数がちょうどkの区間を尺取りで求める。
+//
 
 #include <bits/stdc++.h>
 using namespace std;
